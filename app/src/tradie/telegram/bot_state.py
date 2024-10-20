@@ -1,0 +1,1 @@
+CALCULATE, OPEN, DECISION = range(3)
